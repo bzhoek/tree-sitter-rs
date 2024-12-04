@@ -1,0 +1,8 @@
+[package]
+name = "tree-sitter-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tree-sitter = "0.23.0"
+tree-sitter-swift = "=0.6.0"
